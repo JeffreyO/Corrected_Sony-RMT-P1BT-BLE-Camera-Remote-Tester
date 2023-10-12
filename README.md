@@ -1,0 +1,2 @@
+# Corrected_Sony-RMT-P1BT-BLE-Camera-Remote-Tester
+Camera tester app and an eventual library for BLE remote controls other than this one. Forked from https://github.com/androidthings/sample-bluetooth-le-gattserver with the BLE Kraken remote source from OpenCamera as base template for the Sony BLE remote. This was mostly modified and developed within AIDE so a lot of stuff is stripped out to compile
